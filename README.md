@@ -1,2 +1,2 @@
 # Machine-Learning
-Programming assignments for Machine Learning from Stanford University
+Programming assignments for Machine Learning course from Stanford University
